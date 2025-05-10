@@ -38,7 +38,7 @@ using namespace std;
 using namespace chrono;
 
 int main() {
-    auto start = chrono::high_resolution_clock::now();
+    auto start = high_resolution_clock::now();
 
     while (true) {
         int favourite_number;
