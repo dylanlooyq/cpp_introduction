@@ -15,7 +15,6 @@
 // }
 
 #include <iostream>
-#include "1_myfile.h"
 using namespace std;
 
 main () {
