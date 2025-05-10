@@ -1,0 +1,1 @@
+int x = 42; // Define the variable 'x' with a value of 42
